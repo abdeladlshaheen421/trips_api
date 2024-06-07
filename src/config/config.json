@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "gulf",
+    "password": "p@ssw0rd",
+    "database": "gulf_festival",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
